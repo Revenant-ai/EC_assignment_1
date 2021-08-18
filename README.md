@@ -1,4 +1,4 @@
-# EC_assignment_1
+# EC_assignment_1_ID_202012018
 
 So this is the EC assignment 1, I have done this in seprate files and I will be describing what each file does,
 also I didn't take any static values I stored the data in the phone's memopry using shared prefrences where the
