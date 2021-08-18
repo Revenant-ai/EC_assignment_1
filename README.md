@@ -24,20 +24,18 @@ Presentation Layer Files(Src/main/java/lab/assignment_1):-
 ->poll_report.java
 		This file contains the front end for the poll rreport
 		
-		Application Layer Files(Src/main/java/lab/assignment_1)/controllers:-
+Application Layer Files(Src/main/java/lab/assignment_1)/controllers:-
 		
-		->result_controller.java
+->result_controller.java
 		
-				This file is the controller for the business logic for the screens of poll result and poll report.
-				It contains two functions process report and process result which are responsible for rhe busniness logic for the coroesponding files respectively.
+		This file is the controller for the business logic for the screens of poll result and poll report.
+		It contains two functions process report and process result which are responsible for rhe busniness logic for the coroesponding files respectively.
 				
-		->voting_controller.java
+->voting_controller.java
 		
-				This file is controller for the busniess logic for the screen Main activity which registers a vote and proceess if you have voted previously or not
-				It contains one function whcih processes the data and throws desired outcome to the front screen to display
+		This file is controller for the busniess logic for the screen Main activity which registers a vote and proceess if you have voted previously or not
+		It contains one function whcih processes the data and throws desired outcome to the front screen to display
 				
-				so the function reutrns string which is the messege to the user which i am genrating through the presentation layer via TOAST on the screen.
-				
-				
-				
+		so the function reutrns string which is the messege to the user which i am genrating through the presentation layer via TOAST on the screen.
+							
 DataAccess Layer Files(Src/main/java/lab/assignment_1/):-
